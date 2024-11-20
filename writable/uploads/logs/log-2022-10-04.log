@@ -1,0 +1,11 @@
+CRITICAL - 2022-10-04 21:37:03 --> Use of undefined constant style - assumed 'style' (this will throw an Error in a future version of PHP)
+in APPPATH\Views\principal.php on line 27.
+ 1 APPPATH\Views\principal.php(27): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefined constant style - assumed \'style\' (this will throw an Error in a future version of PHP)', 'APPPATH\\Views\\principal.php', 27, [])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\principal.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('principal', [], true)
+ 5 APPPATH\Controllers\Usuario.php(27): view('principal')
+ 6 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Usuario->principal()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuario))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

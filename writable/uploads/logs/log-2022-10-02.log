@@ -1,0 +1,233 @@
+CRITICAL - 2022-10-02 17:21:24 --> Undefined variable: usuarios
+in APPPATH\Views\listadousuario.php on line 20.
+ 1 APPPATH\Views\listadousuario.php(20): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: usuarios', 'APPPATH\\Views\\listadousuario.php', 20, [])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\listadousuario.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('listadousuario', [], true)
+ 5 APPPATH\Controllers\Home.php(13): view('listadousuario')
+ 6 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Home->mostrar_usuarios()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 18:20:15 --> syntax error, unexpected '$routes' (T_VARIABLE)
+in APPPATH\Config\Routes.php on line 46.
+ 1 SYSTEMPATH\CodeIgniter.php(406): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 2 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 18:20:46 --> syntax error, unexpected '$routes' (T_VARIABLE)
+in APPPATH\Config\Routes.php on line 46.
+ 1 SYSTEMPATH\CodeIgniter.php(406): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 2 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 18:20:48 --> syntax error, unexpected '$routes' (T_VARIABLE)
+in APPPATH\Config\Routes.php on line 46.
+ 1 SYSTEMPATH\CodeIgniter.php(406): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 2 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 18:21:03 --> syntax error, unexpected '$routes' (T_VARIABLE)
+in APPPATH\Config\Routes.php on line 46.
+ 1 SYSTEMPATH\CodeIgniter.php(406): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 2 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 18:21:42 --> syntax error, unexpected '$routes' (T_VARIABLE)
+in APPPATH\Config\Routes.php on line 46.
+ 1 SYSTEMPATH\CodeIgniter.php(406): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 2 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 18:21:43 --> syntax error, unexpected '$routes' (T_VARIABLE)
+in APPPATH\Config\Routes.php on line 46.
+ 1 SYSTEMPATH\CodeIgniter.php(406): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 2 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 18:21:44 --> syntax error, unexpected '$routes' (T_VARIABLE)
+in APPPATH\Config\Routes.php on line 46.
+ 1 SYSTEMPATH\CodeIgniter.php(406): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 2 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 18:21:45 --> syntax error, unexpected '$routes' (T_VARIABLE)
+in APPPATH\Config\Routes.php on line 46.
+ 1 SYSTEMPATH\CodeIgniter.php(406): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 2 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 18:21:46 --> syntax error, unexpected '$routes' (T_VARIABLE)
+in APPPATH\Config\Routes.php on line 46.
+ 1 SYSTEMPATH\CodeIgniter.php(406): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 2 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 18:21:49 --> syntax error, unexpected '$routes' (T_VARIABLE)
+in APPPATH\Config\Routes.php on line 46.
+ 1 SYSTEMPATH\CodeIgniter.php(406): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 2 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 18:23:39 --> syntax error, unexpected '$routes' (T_VARIABLE)
+in APPPATH\Config\Routes.php on line 46.
+ 1 SYSTEMPATH\CodeIgniter.php(406): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 2 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 18:23:40 --> syntax error, unexpected '$routes' (T_VARIABLE)
+in APPPATH\Config\Routes.php on line 46.
+ 1 SYSTEMPATH\CodeIgniter.php(406): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 2 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 18:24:04 --> syntax error, unexpected '$routes' (T_VARIABLE)
+in APPPATH\Config\Routes.php on line 48.
+ 1 SYSTEMPATH\CodeIgniter.php(406): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 2 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 18:24:12 --> syntax error, unexpected '$routes' (T_VARIABLE)
+in APPPATH\Config\Routes.php on line 48.
+ 1 SYSTEMPATH\CodeIgniter.php(406): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 2 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 18:24:14 --> syntax error, unexpected '$routes' (T_VARIABLE)
+in APPPATH\Config\Routes.php on line 48.
+ 1 SYSTEMPATH\CodeIgniter.php(406): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 2 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 18:24:15 --> syntax error, unexpected '$routes' (T_VARIABLE)
+in APPPATH\Config\Routes.php on line 48.
+ 1 SYSTEMPATH\CodeIgniter.php(406): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 2 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 18:24:42 --> syntax error, unexpected '$routes' (T_VARIABLE)
+in APPPATH\Config\Routes.php on line 46.
+ 1 SYSTEMPATH\CodeIgniter.php(406): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 2 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 18:25:22 --> syntax error, unexpected '$routes' (T_VARIABLE)
+in APPPATH\Config\Routes.php on line 46.
+ 1 SYSTEMPATH\CodeIgniter.php(406): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 2 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 18:25:57 --> syntax error, unexpected '$routes' (T_VARIABLE)
+in APPPATH\Config\Routes.php on line 46.
+ 1 SYSTEMPATH\CodeIgniter.php(406): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 2 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 18:26:01 --> syntax error, unexpected '$routes' (T_VARIABLE)
+in APPPATH\Config\Routes.php on line 46.
+ 1 SYSTEMPATH\CodeIgniter.php(406): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 2 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 18:26:51 --> Undefined variable: usuarios
+in APPPATH\Views\listadocomputadoras.php on line 24.
+ 1 APPPATH\Views\listadocomputadoras.php(24): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: usuarios', 'APPPATH\\Views\\listadocomputadoras.php', 24, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\listadocomputadoras.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('listadocomputadoras', [], true)
+ 5 APPPATH\Controllers\Computadora.php(24): view('listadocomputadoras', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Computadora->listar_computadoras()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Computadora))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 18:29:34 --> Undefined variable: usuarios
+in APPPATH\Views\listadocomputadoras.php on line 39.
+ 1 APPPATH\Views\listadocomputadoras.php(39): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: usuarios', 'APPPATH\\Views\\listadocomputadoras.php', 39, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\listadocomputadoras.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('listadocomputadoras', [], true)
+ 5 APPPATH\Controllers\Computadora.php(24): view('listadocomputadoras', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Computadora->listar_computadoras()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Computadora))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 19:26:31 --> Undefined property: App\Controllers\Computadora::$computadoraModel
+in APPPATH\Controllers\Computadora.php on line 41.
+ 1 APPPATH\Controllers\Computadora.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: App\\Controllers\\Computadora::$computadoraModel', 'APPPATH\\Controllers\\Computadora.php', 41, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Computadora->insertar_computadora()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Computadora))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 19:26:59 --> Undefined property: App\Controllers\Computadora::$computadoraModel
+in APPPATH\Controllers\Computadora.php on line 41.
+ 1 APPPATH\Controllers\Computadora.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: App\\Controllers\\Computadora::$computadoraModel', 'APPPATH\\Controllers\\Computadora.php', 41, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Computadora->insertar_computadora()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Computadora))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 19:30:32 --> Undefined property: App\Controllers\Computadora::$computadoraModel
+in APPPATH\Controllers\Computadora.php on line 41.
+ 1 APPPATH\Controllers\Computadora.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: App\\Controllers\\Computadora::$computadoraModel', 'APPPATH\\Controllers\\Computadora.php', 41, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Computadora->insertar_computadora()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Computadora))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 19:33:22 --> Undefined property: App\Controllers\Computadora::$computadoraModel
+in APPPATH\Controllers\Computadora.php on line 41.
+ 1 APPPATH\Controllers\Computadora.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: App\\Controllers\\Computadora::$computadoraModel', 'APPPATH\\Controllers\\Computadora.php', 41, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Computadora->insertar_computadora()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Computadora))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 19:35:04 --> Undefined property: App\Controllers\Computadora::$computadoraModel
+in APPPATH\Controllers\Computadora.php on line 41.
+ 1 APPPATH\Controllers\Computadora.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: App\\Controllers\\Computadora::$computadoraModel', 'APPPATH\\Controllers\\Computadora.php', 41, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Computadora->insertar_computadora()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Computadora))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 19:39:13 --> Undefined property: App\Controllers\Computadora::$computadoraModel
+in APPPATH\Controllers\Computadora.php on line 41.
+ 1 APPPATH\Controllers\Computadora.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: App\\Controllers\\Computadora::$computadoraModel', 'APPPATH\\Controllers\\Computadora.php', 41, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Computadora->insertar_computadora()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Computadora))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 19:41:55 --> Call to a member function getComputadoras() on null
+in APPPATH\Controllers\Computadora.php on line 22.
+ 1 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Computadora->listar_computadoras()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Computadora))
+ 3 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 19:46:38 --> syntax error, unexpected '}', expecting ')'
+in APPPATH\Controllers\Computadora.php on line 44.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(259): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Computadora.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(237): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Computadora')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Computadora')
+ 4 [internal function]: spl_autoload_call('App\\Controllers\\Computadora')
+ 5 SYSTEMPATH\CodeIgniter.php(857): class_exists('\\App\\Controllers\\Computadora', true)
+ 6 SYSTEMPATH\CodeIgniter.php(444): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 19:46:42 --> syntax error, unexpected '}', expecting ')'
+in APPPATH\Controllers\Computadora.php on line 44.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(259): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Computadora.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(237): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Computadora')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Computadora')
+ 4 [internal function]: spl_autoload_call('App\\Controllers\\Computadora')
+ 5 SYSTEMPATH\CodeIgniter.php(857): class_exists('\\App\\Controllers\\Computadora', true)
+ 6 SYSTEMPATH\CodeIgniter.php(444): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 19:46:59 --> syntax error, unexpected '}', expecting ')'
+in APPPATH\Controllers\Computadora.php on line 44.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(259): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Computadora.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(237): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Computadora')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Computadora')
+ 4 [internal function]: spl_autoload_call('App\\Controllers\\Computadora')
+ 5 SYSTEMPATH\CodeIgniter.php(857): class_exists('\\App\\Controllers\\Computadora', true)
+ 6 SYSTEMPATH\CodeIgniter.php(444): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 19:59:09 --> Undefined variable: computadoras
+in APPPATH\Views\listadocomputadoras.php on line 26.
+ 1 APPPATH\Views\listadocomputadoras.php(26): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: computadoras', 'APPPATH\\Views\\listadocomputadoras.php', 26, [])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\listadocomputadoras.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('listadocomputadoras', [], true)
+ 5 APPPATH\Controllers\Computadora.php(48): view('listadocomputadoras')
+ 6 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Computadora->borrar_computadora()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Computadora))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-10-02 23:25:01 --> Undefined variable: usuarios
+in APPPATH\Views\editarcomputadora.php on line 10.
+ 1 APPPATH\Views\editarcomputadora.php(10): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: usuarios', 'APPPATH\\Views\\editarcomputadora.php', 10, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\editarcomputadora.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('editarcomputadora', [], true)
+ 5 APPPATH\Controllers\Computadora.php(58): view('editarcomputadora', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Computadora->formularioeditar_computadora()
+ 7 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Computadora))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
